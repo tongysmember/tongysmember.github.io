@@ -1,3 +1,7 @@
+Start_Command: bundle exec jekyll serve
+Localhost_URL: http://127.0.0.1:4000/
+
+
 # Hamilton <!-- omit in toc -->
 
 A minimal and beautiful Jekyll theme best for writing and note-taking.
