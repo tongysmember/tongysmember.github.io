@@ -1,4 +1,6 @@
+# Command 
 Start_Command: bundle exec jekyll serve
+Build_Command: bundle exec jekyll build
 Localhost_URL: http://127.0.0.1:4000/
 
 
