@@ -36,8 +36,9 @@ logo: logo.png
 social:
   name: Mike Tung
   links:
+    - https://github.com/tongysmember
     #- https://twitter.com/ngzhio
     #- https://www.facebook.com/ngzhio
-    - https://github.com/tongysmember
 #google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
+skin: daylight
